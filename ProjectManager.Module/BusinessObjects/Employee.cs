@@ -35,6 +35,7 @@ namespace ProjectManager.Module.BusinessObjects
             // Place your initialization code here (https://documentation.devexpress.com/eXpressAppFramework/CustomDocument112834.aspx).
         }
 
+        byte[] image;
         bool active;
         string _name;
         [Size(SizeAttribute.DefaultStringMappingFieldSize)]
@@ -73,6 +74,12 @@ namespace ProjectManager.Module.BusinessObjects
             {
                 return GetCollection<Project>(nameof(Projects));
             }
+        }
+        [ImageEditor]
+        public byte[] Image
+        {
+            get => image;
+            set => SetPropertyValue(nameof(Image), ref image, value);
         }
 
 

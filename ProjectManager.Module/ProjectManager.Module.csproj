@@ -124,8 +124,11 @@
     <Compile Include="BusinessObjects\Project.cs" />
     <Compile Include="BusinessObjects\ProjectTask.cs" />
     <Compile Include="BusinessObjects\Testimonial.cs" />
-    <Compile Include="Controllers\Class1.cs">
+    <Compile Include="Controllers\TasksCompletedController.cs">
       <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controllers\TasksCompletedController.Designer.cs">
+      <DependentUpon>TasksCompletedController.cs</DependentUpon>
     </Compile>
     <Compile Include="DatabaseUpdate\Updater.cs" />
     <Compile Include="Module.cs">
