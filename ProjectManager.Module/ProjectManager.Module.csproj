@@ -130,6 +130,7 @@
     <Compile Include="Controllers\TasksCompletedController.Designer.cs">
       <DependentUpon>TasksCompletedController.cs</DependentUpon>
     </Compile>
+    <Compile Include="Controllers\test.cs" />
     <Compile Include="DatabaseUpdate\Updater.cs" />
     <Compile Include="Module.cs">
       <SubType>Component</SubType>
