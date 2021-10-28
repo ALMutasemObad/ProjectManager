@@ -123,6 +123,7 @@
     <Compile Include="BusinessObjects\Employee.cs" />
     <Compile Include="BusinessObjects\Project.cs" />
     <Compile Include="BusinessObjects\ProjectTask.cs" />
+    <Compile Include="BusinessObjects\test1.cs" />
     <Compile Include="BusinessObjects\Testimonial.cs" />
     <Compile Include="Controllers\TasksCompletedController.cs">
       <SubType>Component</SubType>
