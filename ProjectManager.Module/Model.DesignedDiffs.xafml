@@ -3,9 +3,9 @@
   <BOModel>
     <Class Name="ProjectManager.Module.BusinessObjects.ProjectTask">
       <AppearanceRules>
-        <AppearanceRule Id="StatusCompleted" FontStyle="Strikeout" FontColor="0, 255, 0" Criteria="[Status] = ##Enum#ProjectManager.Module.BusinessObjects.Status,Completed#" TargetItems="*" IsNewNode="True" />
+        <AppearanceRule Id="StatusCompleted" FontStyle="Strikeout" FontColor="Lime" Criteria="[Status] = ##Enum#ProjectManager.Module.BusinessObjects.Status,Completed#" TargetItems="*" IsNewNode="True" />
         <AppearanceRule Id="StatusDeferedRed" BackColor="255, 192, 192" Criteria="[Status] = ##Enum#ProjectManager.Module.BusinessObjects.Status,Deferred#" TargetItems="*" IsNewNode="True" />
-        <AppearanceRule Id="StatusTodoYellow" BackColor="255, 255, 0" TargetItems="*" Criteria="[Status] = ##Enum#ProjectManager.Module.BusinessObjects.Status,ToDO#" IsNewNode="True" />
+        <AppearanceRule Id="StatusTodoYellow" BackColor="Yellow" TargetItems="*" Criteria="[Status] = ##Enum#ProjectManager.Module.BusinessObjects.Status,ToDO#" IsNewNode="True" />
       </AppearanceRules>
     </Class>
   </BOModel>
@@ -32,5 +32,6 @@
   </Options>
   <SchemaModules>
     <SchemaModule Name="SystemModule" Version="20.1.3.0" IsNewNode="True" />
+    <SchemaModule Name="SystemWindowsFormsModule" Version="20.1.3.0" IsNewNode="True" />
   </SchemaModules>
 </Application>

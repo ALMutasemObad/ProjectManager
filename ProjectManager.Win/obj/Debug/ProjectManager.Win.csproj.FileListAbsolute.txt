@@ -182,3 +182,17 @@ C:\GitHub\ProjectManager\ProjectManager.Win\obj\Debug\ProjectManager.Win.csproj.
 C:\GitHub\ProjectManager\ProjectManager.Win\obj\Debug\ProjectManager.Win.csproj.CopyComplete
 C:\GitHub\ProjectManager\ProjectManager.Win\obj\Debug\ProjectManager.Win.exe
 C:\GitHub\ProjectManager\ProjectManager.Win\obj\Debug\ProjectManager.Win.pdb
+C:\GitHub\ProjectManager\ProjectManager.Win\bin\Debug\DevExpress.ExpressApp.Workflow.v20.1.dll
+C:\GitHub\ProjectManager\ProjectManager.Win\bin\Debug\DevExpress.ExpressApp.Workflow.Win.v20.1.dll
+C:\GitHub\ProjectManager\ProjectManager.Win\bin\Debug\DevExpress.Workflow.Activities.v20.1.dll
+C:\GitHub\ProjectManager\ProjectManager.Win\bin\Debug\DevExpress.Workflow.Activities.v20.1.Design.dll
+C:\GitHub\ProjectManager\ProjectManager.Win\bin\Debug\DevExpress.ExpressApp.Workflow.v20.1.xml
+C:\GitHub\ProjectManager\ProjectManager.Win\bin\Debug\DevExpress.ExpressApp.Workflow.Win.v20.1.xml
+C:\GitHub\ProjectManager\ProjectManager.Win\bin\Debug\de\DevExpress.ExpressApp.Workflow.v20.1.resources.dll
+C:\GitHub\ProjectManager\ProjectManager.Win\bin\Debug\es\DevExpress.ExpressApp.Workflow.v20.1.resources.dll
+C:\GitHub\ProjectManager\ProjectManager.Win\bin\Debug\ja\DevExpress.ExpressApp.Workflow.v20.1.resources.dll
+C:\GitHub\ProjectManager\ProjectManager.Win\bin\Debug\ru\DevExpress.ExpressApp.Workflow.v20.1.resources.dll
+C:\GitHub\ProjectManager\ProjectManager.Win\bin\Debug\de\DevExpress.ExpressApp.Workflow.Win.v20.1.resources.dll
+C:\GitHub\ProjectManager\ProjectManager.Win\bin\Debug\es\DevExpress.ExpressApp.Workflow.Win.v20.1.resources.dll
+C:\GitHub\ProjectManager\ProjectManager.Win\bin\Debug\ja\DevExpress.ExpressApp.Workflow.Win.v20.1.resources.dll
+C:\GitHub\ProjectManager\ProjectManager.Win\bin\Debug\ru\DevExpress.ExpressApp.Workflow.Win.v20.1.resources.dll

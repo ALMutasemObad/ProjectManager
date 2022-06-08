@@ -72,6 +72,7 @@ namespace ProjectManager.Module.BusinessObjects
             get => status;
             set => SetPropertyValue(nameof(Status), ref status, value);
         }
+
     }
 
     public enum Status
